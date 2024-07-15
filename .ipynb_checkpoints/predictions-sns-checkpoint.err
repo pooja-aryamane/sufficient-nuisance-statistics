@@ -1,0 +1,17 @@
+Traceback (most recent call last):
+  File "/scratch/paa9751/mlhc-project/predict-sns.py", line 147, in <module>
+    df_pred = get_full_data_predictions(modelpath,device)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/scratch/paa9751/mlhc-project/predict-sns.py", line 83, in get_full_data_predictions
+    model = torch.load(modelpath, map_location=device)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/ext3/miniconda3/lib/python3.11/site-packages/torch/serialization.py", line 986, in load
+    with _open_file_like(f, 'rb') as opened_file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/ext3/miniconda3/lib/python3.11/site-packages/torch/serialization.py", line 435, in _open_file_like
+    return _open_file(name_or_buffer, mode)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/ext3/miniconda3/lib/python3.11/site-packages/torch/serialization.py", line 416, in __init__
+    super().__init__(open(name, mode))
+                     ^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'stage2-outdir/seed_20230512+groupsns_y_4+stepsize_2+weightdecay_1.0+pretrained_True+batchsize_256+lr_0.0001+transform_True_val_preds_maxacc.pth'

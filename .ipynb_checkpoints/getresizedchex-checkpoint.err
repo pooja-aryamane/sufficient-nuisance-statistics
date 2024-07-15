@@ -1,0 +1,18 @@
+WARNING: Could not find any nv files on this host!
+Traceback (most recent call last):
+  File "/scratch/paa9751/mlhc-project/access-new-images.py", line 119, in <module>
+    create_data_chexpert('/scratch/paa9751/mlhc-project/resized_data/chexpert', chexpert_dir, 20000)
+  File "/scratch/paa9751/mlhc-project/access-new-images.py", line 58, in create_data_chexpert
+    ctest_data = subset_images(ctest_data, int(0.15*K), 0.1, 0.9) #15% of K 
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/scratch/paa9751/mlhc-project/access-new-images.py", line 26, in subset_images
+    data_df = pd.concat([data_df_1.sample(n=n1, random_state=42), data_df_0.sample(n=n0, random_state=42)])
+                                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/ext3/miniconda3/lib/python3.11/site-packages/pandas/core/generic.py", line 6029, in sample
+    sampled_indices = sample.sample(obj_len, size, replace, weights, rs)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/ext3/miniconda3/lib/python3.11/site-packages/pandas/core/sample.py", line 152, in sample
+    return random_state.choice(obj_len, size=size, replace=replace, p=weights).astype(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "mtrand.pyx", line 984, in numpy.random.mtrand.RandomState.choice
+ValueError: Cannot take a larger sample than population when 'replace=False'

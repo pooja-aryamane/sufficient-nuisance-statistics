@@ -1,0 +1,182 @@
+wandb: Currently logged in as: pooja-aryamane (suff-nuisance-stats). Use `wandb login --relogin` to force relogin
+wandb: wandb version 0.17.4 is available!  To upgrade, please run:
+wandb:  $ pip install wandb --upgrade
+wandb: Tracking run with wandb version 0.16.0
+wandb: Run data is saved locally in /scratch/paa9751/mlhc-project/wandb/run-20240715_151600-km4j9gzd
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run stage2_epochs_40+batch_size_4+lr_1e-05+wd_0.001
+wandb: ⭐️ View project at https://wandb.ai/suff-nuisance-stats/mnli-truegroupDRO
+wandb: 🚀 View run at https://wandb.ai/suff-nuisance-stats/mnli-truegroupDRO/runs/km4j9gzd
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Traceback (most recent call last):
+  File "/scratch/paa9751/mlhc-project/BalancingGroups/train-stage2.py", line 240, in <module>
+    run_experiment(command)
+  File "/scratch/paa9751/mlhc-project/BalancingGroups/train-stage2.py", line 180, in run_experiment
+    load_and_predict_fulldata(args, best_checkpoint_file_avg, best_checkpoint_file_avg)
+  File "/scratch/paa9751/mlhc-project/BalancingGroups/predictions.py", line 51, in load_and_predict_fulldata
+    }[method](args, loaders["tr"])
+      ^^^^^^
+NameError: name 'method' is not defined
+wandb: 
+wandb: Run history:
+wandb:  acc_te_group_0 ▁
+wandb:  acc_te_group_1 ▁
+wandb: acc_te_group_10 ▁
+wandb: acc_te_group_11 ▁
+wandb: acc_te_group_12 ▁
+wandb: acc_te_group_13 ▁
+wandb: acc_te_group_14 ▁
+wandb: acc_te_group_15 ▁
+wandb: acc_te_group_16 ▁
+wandb: acc_te_group_17 ▁
+wandb: acc_te_group_18 ▁
+wandb: acc_te_group_19 ▁
+wandb:  acc_te_group_2 ▁
+wandb: acc_te_group_20 ▁
+wandb: acc_te_group_21 ▁
+wandb: acc_te_group_22 ▁
+wandb: acc_te_group_23 ▁
+wandb:  acc_te_group_3 ▁
+wandb:  acc_te_group_4 ▁
+wandb:  acc_te_group_5 ▁
+wandb:  acc_te_group_6 ▁
+wandb:  acc_te_group_7 ▁
+wandb:  acc_te_group_8 ▁
+wandb:  acc_te_group_9 ▁
+wandb:  acc_tr_group_0 ▁
+wandb:  acc_tr_group_1 ▁
+wandb: acc_tr_group_10 ▁
+wandb: acc_tr_group_11 ▁
+wandb: acc_tr_group_12 ▁
+wandb: acc_tr_group_13 ▁
+wandb: acc_tr_group_14 ▁
+wandb: acc_tr_group_15 ▁
+wandb: acc_tr_group_16 ▁
+wandb: acc_tr_group_17 ▁
+wandb: acc_tr_group_18 ▁
+wandb: acc_tr_group_19 ▁
+wandb:  acc_tr_group_2 ▁
+wandb: acc_tr_group_20 ▁
+wandb: acc_tr_group_21 ▁
+wandb: acc_tr_group_22 ▁
+wandb: acc_tr_group_23 ▁
+wandb:  acc_tr_group_3 ▁
+wandb:  acc_tr_group_4 ▁
+wandb:  acc_tr_group_5 ▁
+wandb:  acc_tr_group_6 ▁
+wandb:  acc_tr_group_7 ▁
+wandb:  acc_tr_group_8 ▁
+wandb:  acc_tr_group_9 ▁
+wandb:  acc_va_group_0 ▁
+wandb:  acc_va_group_1 ▁
+wandb: acc_va_group_10 ▁
+wandb: acc_va_group_11 ▁
+wandb: acc_va_group_12 ▁
+wandb: acc_va_group_13 ▁
+wandb: acc_va_group_14 ▁
+wandb: acc_va_group_15 ▁
+wandb: acc_va_group_16 ▁
+wandb: acc_va_group_17 ▁
+wandb: acc_va_group_18 ▁
+wandb: acc_va_group_19 ▁
+wandb:  acc_va_group_2 ▁
+wandb: acc_va_group_20 ▁
+wandb: acc_va_group_21 ▁
+wandb: acc_va_group_22 ▁
+wandb: acc_va_group_23 ▁
+wandb:  acc_va_group_3 ▁
+wandb:  acc_va_group_4 ▁
+wandb:  acc_va_group_5 ▁
+wandb:  acc_va_group_6 ▁
+wandb:  acc_va_group_7 ▁
+wandb:  acc_va_group_8 ▁
+wandb:  acc_va_group_9 ▁
+wandb:      avg_acc_te ▁
+wandb:      avg_acc_tr ▁
+wandb:      avg_acc_va ▁
+wandb:  avg_train_loss ▁
+wandb:    avg_val_loss ▁
+wandb: 
+wandb: Run summary:
+wandb:  acc_te_group_0 0.1
+wandb:  acc_te_group_1 0.84483
+wandb: acc_te_group_10 0.11538
+wandb: acc_te_group_11 0.44785
+wandb: acc_te_group_12 0.0
+wandb: acc_te_group_13 0.31579
+wandb: acc_te_group_14 0.05085
+wandb: acc_te_group_15 0.02941
+wandb: acc_te_group_16 0.0
+wandb: acc_te_group_17 0.06887
+wandb: acc_te_group_18 0.88203
+wandb: acc_te_group_19 0.08134
+wandb:  acc_te_group_2 0.0061
+wandb: acc_te_group_20 0.3972
+wandb: acc_te_group_21 0.70822
+wandb: acc_te_group_22 0.83005
+wandb: acc_te_group_23 0.64621
+wandb:  acc_te_group_3 0.74757
+wandb:  acc_te_group_4 0.90769
+wandb:  acc_te_group_5 0.17624
+wandb:  acc_te_group_6 0.36821
+wandb:  acc_te_group_7 0.50215
+wandb:  acc_te_group_8 0.96494
+wandb:  acc_te_group_9 0.1875
+wandb:  acc_tr_group_0 0.50893
+wandb:  acc_tr_group_1 0.94365
+wandb: acc_tr_group_10 0.08026
+wandb: acc_tr_group_11 0.44201
+wandb: acc_tr_group_12 0.0007
+wandb: acc_tr_group_13 0.22564
+wandb: acc_tr_group_14 0.05541
+wandb: acc_tr_group_15 0.01192
+wandb: acc_tr_group_16 0.0
+wandb: acc_tr_group_17 0.07541
+wandb: acc_tr_group_18 0.90681
+wandb: acc_tr_group_19 0.10872
+wandb:  acc_tr_group_2 0.00658
+wandb: acc_tr_group_20 0.35468
+wandb: acc_tr_group_21 0.70292
+wandb: acc_tr_group_22 0.82545
+wandb: acc_tr_group_23 0.67032
+wandb:  acc_tr_group_3 0.76032
+wandb:  acc_tr_group_4 0.87357
+wandb:  acc_tr_group_5 0.18107
+wandb:  acc_tr_group_6 0.31483
+wandb:  acc_tr_group_7 0.53429
+wandb:  acc_tr_group_8 0.96802
+wandb:  acc_tr_group_9 0.2878
+wandb:  acc_va_group_0 0.16667
+wandb:  acc_va_group_1 0.85714
+wandb: acc_va_group_10 0.07143
+wandb: acc_va_group_11 0.44724
+wandb: acc_va_group_12 0.00155
+wandb: acc_va_group_13 0.08333
+wandb: acc_va_group_14 0.02941
+wandb: acc_va_group_15 0.01887
+wandb: acc_va_group_16 0.0
+wandb: acc_va_group_17 0.06883
+wandb: acc_va_group_18 0.88261
+wandb: acc_va_group_19 0.11888
+wandb:  acc_va_group_2 0.0059
+wandb: acc_va_group_20 0.28986
+wandb: acc_va_group_21 0.70895
+wandb: acc_va_group_22 0.82984
+wandb: acc_va_group_23 0.67013
+wandb:  acc_va_group_3 0.73529
+wandb:  acc_va_group_4 0.91111
+wandb:  acc_va_group_5 0.18465
+wandb:  acc_va_group_6 0.30952
+wandb:  acc_va_group_7 0.57616
+wandb:  acc_va_group_8 0.96296
+wandb:  acc_va_group_9 0.0
+wandb:      avg_acc_te 0.39515
+wandb:      avg_acc_tr 0.41095
+wandb:      avg_acc_va 0.3956
+wandb:  avg_train_loss 0.18212
+wandb:    avg_val_loss 0.86304
+wandb: 
+wandb: 🚀 View run stage2_epochs_40+batch_size_4+lr_1e-05+wd_0.001 at: https://wandb.ai/suff-nuisance-stats/mnli-truegroupDRO/runs/rzabbc3r
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20240715_145145-rzabbc3r/logs

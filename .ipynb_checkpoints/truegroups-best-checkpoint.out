@@ -1,0 +1,862 @@
+training started
+train loss = 0, group 0 -  0.5072949095205828
+train loss = 0, group 1 -  0.5754468316381628
+train loss = 0, group 2 -  0.6381797709248282
+train loss = 0, group 3 -  0.5611775940114802
+val loop
+WORST GROUP ACCURACY =  0.6377777777777778
+0.6377777777777778
+train loss = 1, group 0 -  0.49352870150045913
+train loss = 1, group 1 -  0.4529395650733601
+train loss = 1, group 2 -  0.5281281330368736
+train loss = 1, group 3 -  0.4782989930022847
+val loop
+WORST GROUP ACCURACY =  0.7266666666666667
+0.7266666666666667
+train loss = 2, group 0 -  0.44375205527652395
+train loss = 2, group 1 -  0.3926312178373337
+train loss = 2, group 2 -  0.4717214280908758
+train loss = 2, group 3 -  0.4286952579563314
+val loop
+WORST GROUP ACCURACY =  0.7481481481481481
+0.7481481481481481
+train loss = 3, group 0 -  0.4023494471203197
+train loss = 3, group 1 -  0.3307281504977833
+train loss = 3, group 2 -  0.4554559821432287
+train loss = 3, group 3 -  0.4041083503853191
+val loop
+WORST GROUP ACCURACY =  0.6237037037037036
+train loss = 4, group 0 -  0.4183647258715196
+train loss = 4, group 1 -  0.3330800470980731
+train loss = 4, group 2 -  0.4263391673564911
+train loss = 4, group 3 -  0.3502899480136958
+val loop
+WORST GROUP ACCURACY =  0.7333333333333333
+train loss = 5, group 0 -  0.3831245847723701
+train loss = 5, group 1 -  0.2991162684830752
+train loss = 5, group 2 -  0.39016060395674274
+train loss = 5, group 3 -  0.3366723057898608
+val loop
+WORST GROUP ACCURACY =  0.64
+train loss = 6, group 0 -  0.3899134961041537
+train loss = 6, group 1 -  0.33704835217107426
+train loss = 6, group 2 -  0.39307434802705593
+train loss = 6, group 3 -  0.3646003740077669
+val loop
+WORST GROUP ACCURACY =  0.6933333333333334
+train loss = 7, group 0 -  0.38088816837830974
+train loss = 7, group 1 -  0.3052924147383733
+train loss = 7, group 2 -  0.3874709514054385
+train loss = 7, group 3 -  0.3088599219918251
+val loop
+WORST GROUP ACCURACY =  0.6266666666666667
+train loss = 8, group 0 -  0.3643010353500193
+train loss = 8, group 1 -  0.2871174258264628
+train loss = 8, group 2 -  0.3734166145324707
+train loss = 8, group 3 -  0.28270149183544246
+val loop
+WORST GROUP ACCURACY =  0.7066666666666667
+train loss = 9, group 0 -  0.33540420789610254
+train loss = 9, group 1 -  0.2530264349146323
+train loss = 9, group 2 -  0.32371147545901213
+train loss = 9, group 3 -  0.25380065400492063
+val loop
+WORST GROUP ACCURACY =  0.6933333333333334
+train loss = 10, group 0 -  0.3583100600676103
+train loss = 10, group 1 -  0.2937514991245487
+train loss = 10, group 2 -  0.35159403356638824
+train loss = 10, group 3 -  0.3001223629171198
+val loop
+WORST GROUP ACCURACY =  0.6133333333333333
+train loss = 11, group 0 -  0.3145119041204453
+train loss = 11, group 1 -  0.24235774481838399
+train loss = 11, group 2 -  0.305629964037375
+train loss = 11, group 3 -  0.23918083384633065
+val loop
+WORST GROUP ACCURACY =  0.64
+train loss = 12, group 0 -  0.3214354466308247
+train loss = 12, group 1 -  0.22543245601383122
+train loss = 12, group 2 -  0.300760450146415
+train loss = 12, group 3 -  0.22041182592511177
+val loop
+WORST GROUP ACCURACY =  0.6333333333333333
+train loss = 13, group 0 -  0.29649877412752673
+train loss = 13, group 1 -  0.23864120536229827
+train loss = 13, group 2 -  0.2896860446442257
+train loss = 13, group 3 -  0.2392962550575083
+val loop
+WORST GROUP ACCURACY =  0.5733333333333334
+train loss = 14, group 0 -  0.2908835898746144
+train loss = 14, group 1 -  0.21999707655473189
+train loss = 14, group 2 -  0.2760975314812227
+train loss = 14, group 3 -  0.22794275039976294
+val loop
+WORST GROUP ACCURACY =  0.3466666666666667
+train loss = 15, group 0 -  0.28778176524422383
+train loss = 15, group 1 -  0.2204609337855469
+train loss = 15, group 2 -  0.2983436476100575
+train loss = 15, group 3 -  0.23042140183123674
+val loop
+WORST GROUP ACCURACY =  0.47333333333333333
+train loss = 16, group 0 -  0.29363021809946405
+train loss = 16, group 1 -  0.2171836367384954
+train loss = 16, group 2 -  0.288001148538156
+train loss = 16, group 3 -  0.23051926550370724
+val loop
+WORST GROUP ACCURACY =  0.6
+train loss = 17, group 0 -  0.2833341224627061
+train loss = 17, group 1 -  0.2351685370233926
+train loss = 17, group 2 -  0.27030651081692086
+train loss = 17, group 3 -  0.2232604688202793
+val loop
+WORST GROUP ACCURACY =  0.6733333333333333
+train loss = 18, group 0 -  0.2838132889433341
+train loss = 18, group 1 -  0.20829042900692332
+train loss = 18, group 2 -  0.2530608542940833
+train loss = 18, group 3 -  0.21468465768478134
+val loop
+WORST GROUP ACCURACY =  0.52
+train loss = 19, group 0 -  0.2846438380804929
+train loss = 19, group 1 -  0.20605512992902236
+train loss = 19, group 2 -  0.2697420542890375
+train loss = 19, group 3 -  0.21055125309662384
+val loop
+WORST GROUP ACCURACY =  0.7066666666666667
+train loss = 20, group 0 -  0.2662122295661406
+train loss = 20, group 1 -  0.21196275780146773
+train loss = 20, group 2 -  0.257569478858601
+train loss = 20, group 3 -  0.19810988943685184
+val loop
+WORST GROUP ACCURACY =  0.49333333333333335
+train loss = 21, group 0 -  0.3133918076753616
+train loss = 21, group 1 -  0.24643442309038205
+train loss = 21, group 2 -  0.2751807892864401
+train loss = 21, group 3 -  0.21122691048817202
+val loop
+WORST GROUP ACCURACY =  0.43333333333333335
+train loss = 22, group 0 -  0.28082505681298
+train loss = 22, group 1 -  0.2117217974567955
+train loss = 22, group 2 -  0.24035341631282459
+train loss = 22, group 3 -  0.18541248748925598
+val loop
+WORST GROUP ACCURACY =  0.4266666666666667
+train loss = 23, group 0 -  0.2676929319446737
+train loss = 23, group 1 -  0.20980997793376446
+train loss = 23, group 2 -  0.25374394980343906
+train loss = 23, group 3 -  0.1846235271373933
+val loop
+WORST GROUP ACCURACY =  0.49333333333333335
+train loss = 24, group 0 -  0.26129169166088106
+train loss = 24, group 1 -  0.2275622974065217
+train loss = 24, group 2 -  0.2215014410289851
+train loss = 24, group 3 -  0.18477974046360363
+val loop
+WORST GROUP ACCURACY =  0.4866666666666667
+train loss = 25, group 0 -  0.2490613270889629
+train loss = 25, group 1 -  0.17913189814849334
+train loss = 25, group 2 -  0.24038684205575422
+train loss = 25, group 3 -  0.19180881511420012
+val loop
+WORST GROUP ACCURACY =  0.4266666666666667
+train loss = 26, group 0 -  0.2575280249118805
+train loss = 26, group 1 -  0.20140808979895983
+train loss = 26, group 2 -  0.22638585052706978
+train loss = 26, group 3 -  0.16924784728749231
+val loop
+WORST GROUP ACCURACY =  0.43333333333333335
+train loss = 27, group 0 -  0.268177917599678
+train loss = 27, group 1 -  0.21772198975086213
+train loss = 27, group 2 -  0.23837008015675978
+train loss = 27, group 3 -  0.208262292037464
+val loop
+WORST GROUP ACCURACY =  0.66
+train loss = 28, group 0 -  0.24645889862017198
+train loss = 28, group 1 -  0.20169059173627332
+train loss = 28, group 2 -  0.22048612236976622
+train loss = 28, group 3 -  0.19439281946556133
+val loop
+WORST GROUP ACCURACY =  0.4266666666666667
+train loss = 29, group 0 -  0.25609122839840975
+train loss = 29, group 1 -  0.2184706285257231
+train loss = 29, group 2 -  0.25021466233513573
+train loss = 29, group 3 -  0.20953890498388897
+val loop
+WORST GROUP ACCURACY =  0.6
+train loss = 30, group 0 -  0.258466961979866
+train loss = 30, group 1 -  0.19004756354472854
+train loss = 30, group 2 -  0.23195245997472244
+train loss = 30, group 3 -  0.18124671376902948
+val loop
+WORST GROUP ACCURACY =  0.32
+train loss = 31, group 0 -  0.2558953213420781
+train loss = 31, group 1 -  0.21833136623555963
+train loss = 31, group 2 -  0.25081729238683526
+train loss = 31, group 3 -  0.20496812611818313
+val loop
+WORST GROUP ACCURACY =  0.5066666666666667
+train loss = 32, group 0 -  0.2538286847147075
+train loss = 32, group 1 -  0.17878293127498843
+train loss = 32, group 2 -  0.24187256571921437
+train loss = 32, group 3 -  0.19074036191132934
+val loop
+WORST GROUP ACCURACY =  0.66
+train loss = 33, group 0 -  0.25095295906066895
+train loss = 33, group 1 -  0.1873872862620787
+train loss = 33, group 2 -  0.2542450888590379
+train loss = 33, group 3 -  0.19241492006589067
+val loop
+WORST GROUP ACCURACY =  0.48
+train loss = 34, group 0 -  0.25007168569348076
+train loss = 34, group 1 -  0.19996562447737565
+train loss = 34, group 2 -  0.23724281164732847
+train loss = 34, group 3 -  0.1745412619361146
+val loop
+WORST GROUP ACCURACY =  0.5266666666666666
+train loss = 35, group 0 -  0.2209955161268061
+train loss = 35, group 1 -  0.1594845979728482
+train loss = 35, group 2 -  0.23681675696914847
+train loss = 35, group 3 -  0.18480387868529016
+val loop
+WORST GROUP ACCURACY =  0.5933333333333334
+train loss = 36, group 0 -  0.21970005319877103
+train loss = 36, group 1 -  0.14923613640395078
+train loss = 36, group 2 -  0.20046298801898957
+train loss = 36, group 3 -  0.1645852575247938
+val loop
+WORST GROUP ACCURACY =  0.6133333333333333
+train loss = 37, group 0 -  0.2200479279864918
+train loss = 37, group 1 -  0.17788607847284188
+train loss = 37, group 2 -  0.21990337710488927
+train loss = 37, group 3 -  0.1613629710945216
+val loop
+WORST GROUP ACCURACY =  0.5933333333333334
+train loss = 38, group 0 -  0.23167725774374875
+train loss = 38, group 1 -  0.18016718502410434
+train loss = 38, group 2 -  0.21840835186568172
+train loss = 38, group 3 -  0.1828150316564874
+val loop
+WORST GROUP ACCURACY =  0.6666666666666666
+train loss = 39, group 0 -  0.23850577690384606
+train loss = 39, group 1 -  0.1949283819984306
+train loss = 39, group 2 -  0.22128318304365333
+train loss = 39, group 3 -  0.15573011206632312
+val loop
+WORST GROUP ACCURACY =  0.6666666666666666
+train loss = 40, group 0 -  0.24783042940226468
+train loss = 40, group 1 -  0.18534315076910637
+train loss = 40, group 2 -  0.21603827151385221
+train loss = 40, group 3 -  0.1839003838598728
+val loop
+WORST GROUP ACCURACY =  0.5333333333333333
+train loss = 41, group 0 -  0.24324263388460332
+train loss = 41, group 1 -  0.20051938173445788
+train loss = 41, group 2 -  0.2567199455066161
+train loss = 41, group 3 -  0.21333753046664325
+val loop
+WORST GROUP ACCURACY =  0.56
+train loss = 42, group 0 -  0.22948976050723682
+train loss = 42, group 1 -  0.18145021471110256
+train loss = 42, group 2 -  0.22628481171347878
+train loss = 42, group 3 -  0.17768100398507986
+val loop
+WORST GROUP ACCURACY =  0.5066666666666667
+train loss = 43, group 0 -  0.215818982639096
+train loss = 43, group 1 -  0.18584404923021794
+train loss = 43, group 2 -  0.21865945214574986
+train loss = 43, group 3 -  0.1774849119172855
+val loop
+WORST GROUP ACCURACY =  0.72
+train loss = 44, group 0 -  0.2332685256546194
+train loss = 44, group 1 -  0.19498576440594412
+train loss = 44, group 2 -  0.22667040553959933
+train loss = 44, group 3 -  0.1764048269526525
+val loop
+WORST GROUP ACCURACY =  0.58
+train loss = 45, group 0 -  0.22988053451884877
+train loss = 45, group 1 -  0.17997667320411315
+train loss = 45, group 2 -  0.20692791071805086
+train loss = 45, group 3 -  0.18370821592821315
+val loop
+WORST GROUP ACCURACY =  0.6866666666666666
+train loss = 46, group 0 -  0.2186473097313534
+train loss = 46, group 1 -  0.1657964919947765
+train loss = 46, group 2 -  0.2137229013172063
+train loss = 46, group 3 -  0.15571477572348985
+val loop
+WORST GROUP ACCURACY =  0.56
+train loss = 47, group 0 -  0.2640957604755055
+train loss = 47, group 1 -  0.188130266524174
+train loss = 47, group 2 -  0.2361189537427642
+train loss = 47, group 3 -  0.17306467449631202
+val loop
+WORST GROUP ACCURACY =  0.5666666666666667
+train loss = 48, group 0 -  0.2754321419379928
+train loss = 48, group 1 -  0.19625102874230255
+train loss = 48, group 2 -  0.30768638849258423
+train loss = 48, group 3 -  0.25834665427153763
+val loop
+WORST GROUP ACCURACY =  0.4666666666666667
+train loss = 49, group 0 -  0.23361590938134627
+train loss = 49, group 1 -  0.17169233668934214
+train loss = 49, group 2 -  0.22988836629824205
+train loss = 49, group 3 -  0.16525430692867799
+val loop
+WORST GROUP ACCURACY =  0.5666666666666667
+train loss = 50, group 0 -  0.21013637523759496
+train loss = 50, group 1 -  0.17210466782985764
+train loss = 50, group 2 -  0.17907071032307365
+train loss = 50, group 3 -  0.1416284120048989
+val loop
+WORST GROUP ACCURACY =  0.6
+train loss = 51, group 0 -  0.2466968823562969
+train loss = 51, group 1 -  0.18454872166568584
+train loss = 51, group 2 -  0.20069115039977162
+train loss = 51, group 3 -  0.15614934072575787
+val loop
+WORST GROUP ACCURACY =  0.5733333333333334
+train loss = 52, group 0 -  0.21570105796510522
+train loss = 52, group 1 -  0.18101077814671127
+train loss = 52, group 2 -  0.22022739418528298
+train loss = 52, group 3 -  0.17331208666278558
+val loop
+WORST GROUP ACCURACY =  0.38
+train loss = 53, group 0 -  0.21080249832435088
+train loss = 53, group 1 -  0.16414444314485246
+train loss = 53, group 2 -  0.182076971097426
+train loss = 53, group 3 -  0.15046743767928672
+val loop
+WORST GROUP ACCURACY =  0.4866666666666667
+train loss = 54, group 0 -  0.17275882282040336
+train loss = 54, group 1 -  0.13567238341678273
+train loss = 54, group 2 -  0.19246727295897223
+train loss = 54, group 3 -  0.14415657799690962
+val loop
+WORST GROUP ACCURACY =  0.3933333333333333
+train loss = 55, group 0 -  0.20399279377677224
+train loss = 55, group 1 -  0.16464071957902474
+train loss = 55, group 2 -  0.2107245995239778
+train loss = 55, group 3 -  0.16636828641322526
+val loop
+WORST GROUP ACCURACY =  0.4866666666666667
+train loss = 56, group 0 -  0.2044464405287396
+train loss = 56, group 1 -  0.16194735318422318
+train loss = 56, group 2 -  0.19298668828877535
+train loss = 56, group 3 -  0.1607656071809205
+val loop
+WORST GROUP ACCURACY =  0.5466666666666666
+train loss = 57, group 0 -  0.20050449411977422
+train loss = 57, group 1 -  0.1509993692690676
+train loss = 57, group 2 -  0.2122444280169227
+train loss = 57, group 3 -  0.16214142565361478
+val loop
+WORST GROUP ACCURACY =  0.58
+train loss = 58, group 0 -  0.19368361194025385
+train loss = 58, group 1 -  0.13934070244431496
+train loss = 58, group 2 -  0.19934844442389227
+train loss = 58, group 3 -  0.151101724837314
+val loop
+WORST GROUP ACCURACY =  0.5333333333333333
+train loss = 59, group 0 -  0.19838305779478765
+train loss = 59, group 1 -  0.15382576798173514
+train loss = 59, group 2 -  0.18862968466498636
+train loss = 59, group 3 -  0.14672432020306586
+val loop
+WORST GROUP ACCURACY =  0.44666666666666666
+train loss = 60, group 0 -  0.1980167582631111
+train loss = 60, group 1 -  0.15864732692187483
+train loss = 60, group 2 -  0.1801354775374586
+train loss = 60, group 3 -  0.14891037864779885
+val loop
+WORST GROUP ACCURACY =  0.5266666666666666
+train loss = 61, group 0 -  0.18052552044391632
+train loss = 61, group 1 -  0.14350540019910443
+train loss = 61, group 2 -  0.17672484517097473
+train loss = 61, group 3 -  0.1305746056224135
+val loop
+WORST GROUP ACCURACY =  0.6
+train loss = 62, group 0 -  0.2030933831225742
+train loss = 62, group 1 -  0.1636514786292206
+train loss = 62, group 2 -  0.20100499825044113
+train loss = 62, group 3 -  0.17155717426318337
+val loop
+WORST GROUP ACCURACY =  0.5133333333333333
+train loss = 63, group 0 -  0.21826335286552256
+train loss = 63, group 1 -  0.16169743160293862
+train loss = 63, group 2 -  0.2256116965954954
+train loss = 63, group 3 -  0.2063873269764537
+val loop
+WORST GROUP ACCURACY =  0.66
+train loss = 64, group 0 -  0.21155314188111912
+train loss = 64, group 1 -  0.1698431281880899
+train loss = 64, group 2 -  0.19872007275169545
+train loss = 64, group 3 -  0.1661650405011394
+val loop
+WORST GROUP ACCURACY =  0.38
+train loss = 65, group 0 -  0.19983408586545423
+train loss = 65, group 1 -  0.14787485496225683
+train loss = 65, group 2 -  0.20390247160738165
+train loss = 65, group 3 -  0.14181799699806355
+val loop
+WORST GROUP ACCURACY =  0.5933333333333334
+train loss = 66, group 0 -  0.2080185145139694
+train loss = 66, group 1 -  0.17252430218187245
+train loss = 66, group 2 -  0.19464910910888153
+train loss = 66, group 3 -  0.16857101096432994
+val loop
+WORST GROUP ACCURACY =  0.5733333333333334
+train loss = 67, group 0 -  0.19077809832312845
+train loss = 67, group 1 -  0.14413407352668317
+train loss = 67, group 2 -  0.1677352409471165
+train loss = 67, group 3 -  0.1249545712955296
+val loop
+WORST GROUP ACCURACY =  0.44
+train loss = 68, group 0 -  0.19323435723781585
+train loss = 68, group 1 -  0.14935846800323238
+train loss = 68, group 2 -  0.1875772782347419
+train loss = 68, group 3 -  0.14422210773283786
+val loop
+WORST GROUP ACCURACY =  0.5733333333333334
+train loss = 69, group 0 -  0.1827477689493786
+train loss = 69, group 1 -  0.12690317690033803
+train loss = 69, group 2 -  0.17127290720289404
+train loss = 69, group 3 -  0.11561546176248653
+val loop
+WORST GROUP ACCURACY =  0.6
+train loss = 70, group 0 -  0.20990184423598376
+train loss = 70, group 1 -  0.16684586364267903
+train loss = 70, group 2 -  0.192823265357451
+train loss = 70, group 3 -  0.1625265273138542
+val loop
+WORST GROUP ACCURACY =  0.5533333333333333
+train loss = 71, group 0 -  0.20905780033631757
+train loss = 71, group 1 -  0.18261814601719378
+train loss = 71, group 2 -  0.19571171362291684
+train loss = 71, group 3 -  0.16105534487657927
+val loop
+WORST GROUP ACCURACY =  0.5866666666666667
+train loss = 72, group 0 -  0.21046348187056454
+train loss = 72, group 1 -  0.1671677367253737
+train loss = 72, group 2 -  0.20301388231190767
+train loss = 72, group 3 -  0.16460482825271108
+val loop
+WORST GROUP ACCURACY =  0.5533333333333333
+train loss = 73, group 0 -  0.19963103343139996
+train loss = 73, group 1 -  0.15561141243035143
+train loss = 73, group 2 -  0.19151604717428033
+train loss = 73, group 3 -  0.15485934276472438
+val loop
+WORST GROUP ACCURACY =  0.4533333333333333
+train loss = 74, group 0 -  0.21720363714478233
+train loss = 74, group 1 -  0.17542141806334258
+train loss = 74, group 2 -  0.2248950871554288
+train loss = 74, group 3 -  0.1721551932563836
+val loop
+WORST GROUP ACCURACY =  0.6066666666666667
+train loss = 75, group 0 -  0.1826591436158527
+train loss = 75, group 1 -  0.14038811082189734
+train loss = 75, group 2 -  0.17565303648060018
+train loss = 75, group 3 -  0.13614323560825803
+val loop
+WORST GROUP ACCURACY =  0.6133333333333333
+train loss = 76, group 0 -  0.20991830934177746
+train loss = 76, group 1 -  0.15999929250471973
+train loss = 76, group 2 -  0.19276680892164058
+train loss = 76, group 3 -  0.1894304095005447
+val loop
+WORST GROUP ACCURACY =  0.6066666666666667
+train loss = 77, group 0 -  0.22351253533905202
+train loss = 77, group 1 -  0.1938709489662539
+train loss = 77, group 2 -  0.20482225689021025
+train loss = 77, group 3 -  0.1561276691373099
+val loop
+WORST GROUP ACCURACY =  0.58
+train loss = 78, group 0 -  0.2116862417622046
+train loss = 78, group 1 -  0.1613447928293185
+train loss = 78, group 2 -  0.20755244764414701
+train loss = 78, group 3 -  0.1549858237574385
+val loop
+WORST GROUP ACCURACY =  0.5866666666666667
+train loss = 79, group 0 -  0.21282307194037872
+train loss = 79, group 1 -  0.15081321705471384
+train loss = 79, group 2 -  0.19374491301449862
+train loss = 79, group 3 -  0.16506679738787086
+val loop
+WORST GROUP ACCURACY =  0.44666666666666666
+train loss = 80, group 0 -  0.19530496231534264
+train loss = 80, group 1 -  0.16138311595740643
+train loss = 80, group 2 -  0.19880921163342216
+train loss = 80, group 3 -  0.1439878507009284
+val loop
+WORST GROUP ACCURACY =  0.5733333333333334
+train loss = 81, group 0 -  0.1981727048754692
+train loss = 81, group 1 -  0.13933903202414513
+train loss = 81, group 2 -  0.18751613538373602
+train loss = 81, group 3 -  0.1538784831169654
+val loop
+WORST GROUP ACCURACY =  0.5866666666666667
+train loss = 82, group 0 -  0.17266822091557762
+train loss = 82, group 1 -  0.13630048852752555
+train loss = 82, group 2 -  0.16369377462701365
+train loss = 82, group 3 -  0.1378116533837535
+val loop
+WORST GROUP ACCURACY =  0.5266666666666666
+train loss = 83, group 0 -  0.20157871354709972
+train loss = 83, group 1 -  0.14571813201023773
+train loss = 83, group 2 -  0.1980578824877739
+train loss = 83, group 3 -  0.16175765398551117
+val loop
+WORST GROUP ACCURACY =  0.5066666666666667
+train loss = 84, group 0 -  0.19701634171334179
+train loss = 84, group 1 -  0.14542310976169326
+train loss = 84, group 2 -  0.19083873453465375
+train loss = 84, group 3 -  0.12306041031737219
+val loop
+WORST GROUP ACCURACY =  0.5466666666666666
+train loss = 85, group 0 -  0.1772858442230658
+train loss = 85, group 1 -  0.14697134786031463
+train loss = 85, group 2 -  0.17717801346020265
+train loss = 85, group 3 -  0.14865603259002622
+val loop
+WORST GROUP ACCURACY =  0.6066666666666667
+train loss = 86, group 0 -  0.16699698567390442
+train loss = 86, group 1 -  0.1359549709553407
+train loss = 86, group 2 -  0.17527423216537996
+train loss = 86, group 3 -  0.16037283068501645
+val loop
+WORST GROUP ACCURACY =  0.3333333333333333
+train loss = 87, group 0 -  0.2071757434443994
+train loss = 87, group 1 -  0.15307391028512607
+train loss = 87, group 2 -  0.2113803568211469
+train loss = 87, group 3 -  0.15297448858618737
+val loop
+WORST GROUP ACCURACY =  0.5266666666666666
+train loss = 88, group 0 -  0.20860716781832955
+train loss = 88, group 1 -  0.1580285855992274
+train loss = 88, group 2 -  0.17943506931716746
+train loss = 88, group 3 -  0.12962100642987273
+val loop
+WORST GROUP ACCURACY =  0.6
+train loss = 89, group 0 -  0.18633473095568745
+train loss = 89, group 1 -  0.14580980567261576
+train loss = 89, group 2 -  0.17825070050629702
+train loss = 89, group 3 -  0.15200417115437714
+val loop
+WORST GROUP ACCURACY =  0.5933333333333334
+train loss = 90, group 0 -  0.18372865116054363
+train loss = 90, group 1 -  0.14361231330443514
+train loss = 90, group 2 -  0.18843447796323082
+train loss = 90, group 3 -  0.15029675935141065
+val loop
+WORST GROUP ACCURACY =  0.3466666666666667
+train loss = 91, group 0 -  0.19972848404537547
+train loss = 91, group 1 -  0.1535502748225223
+train loss = 91, group 2 -  0.1794561676003716
+train loss = 91, group 3 -  0.12613099965859542
+val loop
+WORST GROUP ACCURACY =  0.48
+train loss = 92, group 0 -  0.20153854231942783
+train loss = 92, group 1 -  0.1441390509293838
+train loss = 92, group 2 -  0.17293573008342222
+train loss = 92, group 3 -  0.13090353212742642
+val loop
+WORST GROUP ACCURACY =  0.56
+train loss = 93, group 0 -  0.18001226728612726
+train loss = 93, group 1 -  0.13723069332878698
+train loss = 93, group 2 -  0.1742741804231297
+train loss = 93, group 3 -  0.12710877483795313
+val loop
+WORST GROUP ACCURACY =  0.5733333333333334
+train loss = 94, group 0 -  0.20049426000226628
+train loss = 94, group 1 -  0.16415247065438465
+train loss = 94, group 2 -  0.19912445016882635
+train loss = 94, group 3 -  0.16361577808856964
+val loop
+WORST GROUP ACCURACY =  0.5933333333333334
+train loss = 95, group 0 -  0.21140802285887977
+train loss = 95, group 1 -  0.18805419491095976
+train loss = 95, group 2 -  0.19216042580929668
+train loss = 95, group 3 -  0.15469196363648569
+val loop
+WORST GROUP ACCURACY =  0.5333333333333333
+train loss = 96, group 0 -  0.20849559280005367
+train loss = 96, group 1 -  0.14871374503286047
+train loss = 96, group 2 -  0.20109336877411063
+train loss = 96, group 3 -  0.1474342470480637
+val loop
+WORST GROUP ACCURACY =  0.5533333333333333
+train loss = 97, group 0 -  0.20386449694633485
+train loss = 97, group 1 -  0.16200137996030126
+train loss = 97, group 2 -  0.17146573947234586
+train loss = 97, group 3 -  0.12256507942961022
+val loop
+WORST GROUP ACCURACY =  0.5466666666666666
+train loss = 98, group 0 -  0.1806093607436527
+train loss = 98, group 1 -  0.1383933572013947
+train loss = 98, group 2 -  0.16728555844588713
+train loss = 98, group 3 -  0.13608052338558166
+val loop
+WORST GROUP ACCURACY =  0.4666666666666667
+train loss = 99, group 0 -  0.18641274043104866
+train loss = 99, group 1 -  0.15212408837608316
+train loss = 99, group 2 -  0.1908817944201556
+train loss = 99, group 3 -  0.168931790238077
+val loop
+WORST GROUP ACCURACY =  0.6466666666666666
+train loss = 100, group 0 -  0.17989637689156965
+train loss = 100, group 1 -  0.14715430796019394
+train loss = 100, group 2 -  0.16579970527778973
+train loss = 100, group 3 -  0.11650386485271155
+val loop
+WORST GROUP ACCURACY =  0.6066666666666667
+train loss = 101, group 0 -  0.1889508603648706
+train loss = 101, group 1 -  0.15060415339063515
+train loss = 101, group 2 -  0.16078051653775302
+train loss = 101, group 3 -  0.1322563699107956
+val loop
+WORST GROUP ACCURACY =  0.5666666666666667
+train loss = 102, group 0 -  0.19591679071838206
+train loss = 102, group 1 -  0.12653337689963254
+train loss = 102, group 2 -  0.1864832344380292
+train loss = 102, group 3 -  0.1410291206768968
+val loop
+WORST GROUP ACCURACY =  0.44
+train loss = 103, group 0 -  0.18437129475853659
+train loss = 103, group 1 -  0.1438105166233568
+train loss = 103, group 2 -  0.1660888358950615
+train loss = 103, group 3 -  0.12414073033088988
+val loop
+WORST GROUP ACCURACY =  0.35333333333333333
+train loss = 104, group 0 -  0.17702526978471061
+train loss = 104, group 1 -  0.14107381892813878
+train loss = 104, group 2 -  0.16805401268330486
+train loss = 104, group 3 -  0.1444664060730826
+val loop
+WORST GROUP ACCURACY =  0.4
+train loss = 105, group 0 -  0.2144686452367089
+train loss = 105, group 1 -  0.16170959235168994
+train loss = 105, group 2 -  0.17243744676763362
+train loss = 105, group 3 -  0.1391986370933327
+val loop
+WORST GROUP ACCURACY =  0.62
+train loss = 106, group 0 -  0.21271284236149354
+train loss = 106, group 1 -  0.15521999656815422
+train loss = 106, group 2 -  0.21751966300335798
+train loss = 106, group 3 -  0.1615721970796585
+val loop
+WORST GROUP ACCURACY =  0.5933333333333334
+train loss = 107, group 0 -  0.20702326853166927
+train loss = 107, group 1 -  0.17279336306859147
+train loss = 107, group 2 -  0.18444327861070633
+train loss = 107, group 3 -  0.14628303861668843
+val loop
+WORST GROUP ACCURACY =  0.5733333333333334
+train loss = 108, group 0 -  0.20126701403747904
+train loss = 108, group 1 -  0.14870357963849198
+train loss = 108, group 2 -  0.15444071387702768
+train loss = 108, group 3 -  0.11890786741436883
+val loop
+WORST GROUP ACCURACY =  0.56
+train loss = 109, group 0 -  0.1853688123551282
+train loss = 109, group 1 -  0.1462113258598203
+train loss = 109, group 2 -  0.16337563828988508
+train loss = 109, group 3 -  0.12496466542255472
+val loop
+WORST GROUP ACCURACY =  0.38666666666666666
+train loss = 110, group 0 -  0.17457418699156155
+train loss = 110, group 1 -  0.13115250246429985
+train loss = 110, group 2 -  0.14638524184172805
+train loss = 110, group 3 -  0.11253358511762186
+val loop
+WORST GROUP ACCURACY =  0.54
+train loss = 111, group 0 -  0.18518821746110917
+train loss = 111, group 1 -  0.1378077126065777
+train loss = 111, group 2 -  0.1651136640797962
+train loss = 111, group 3 -  0.12267214271493933
+val loop
+WORST GROUP ACCURACY =  0.56
+train loss = 112, group 0 -  0.19749473793940112
+train loss = 112, group 1 -  0.14697828171351415
+train loss = 112, group 2 -  0.19106948253783312
+train loss = 112, group 3 -  0.14567065347324717
+val loop
+WORST GROUP ACCURACY =  0.38
+train loss = 113, group 0 -  0.2094961383125999
+train loss = 113, group 1 -  0.14290258180011403
+train loss = 113, group 2 -  0.22126395228234205
+train loss = 113, group 3 -  0.15590375048023733
+val loop
+WORST GROUP ACCURACY =  0.5866666666666667
+train loss = 114, group 0 -  0.20912413691932505
+train loss = 114, group 1 -  0.16762507439336993
+train loss = 114, group 2 -  0.19128668077967384
+train loss = 114, group 3 -  0.17239596237513152
+val loop
+WORST GROUP ACCURACY =  0.5666666666666667
+train loss = 115, group 0 -  0.1962650089101358
+train loss = 115, group 1 -  0.13379032100466165
+train loss = 115, group 2 -  0.20053299286148765
+train loss = 115, group 3 -  0.15750497410243208
+val loop
+WORST GROUP ACCURACY =  0.6066666666666667
+train loss = 116, group 0 -  0.17117032462900336
+train loss = 116, group 1 -  0.13858591977041215
+train loss = 116, group 2 -  0.1758389879356731
+train loss = 116, group 3 -  0.15045359312472018
+val loop
+WORST GROUP ACCURACY =  0.6066666666666667
+train loss = 117, group 0 -  0.17148827341469852
+train loss = 117, group 1 -  0.12749497003175997
+train loss = 117, group 2 -  0.1846126682379029
+train loss = 117, group 3 -  0.14000335284932094
+val loop
+WORST GROUP ACCURACY =  0.52
+train loss = 118, group 0 -  0.1933594373139468
+train loss = 118, group 1 -  0.1596041175113483
+train loss = 118, group 2 -  0.18930464522405105
+train loss = 118, group 3 -  0.14646698548881845
+val loop
+WORST GROUP ACCURACY =  0.5333333333333333
+train loss = 119, group 0 -  0.17995756769722157
+train loss = 119, group 1 -  0.14629380934956399
+train loss = 119, group 2 -  0.17159546925262972
+train loss = 119, group 3 -  0.14284926364198328
+val loop
+WORST GROUP ACCURACY =  0.49333333333333335
+train loss = 120, group 0 -  0.19513408731330525
+train loss = 120, group 1 -  0.12326307506723837
+train loss = 120, group 2 -  0.18761202056299556
+train loss = 120, group 3 -  0.14022366812622006
+val loop
+WORST GROUP ACCURACY =  0.6466666666666666
+train loss = 121, group 0 -  0.1780738430944356
+train loss = 121, group 1 -  0.13284460799768566
+train loss = 121, group 2 -  0.16486914008855819
+train loss = 121, group 3 -  0.12135915055193684
+val loop
+WORST GROUP ACCURACY =  0.4266666666666667
+train loss = 122, group 0 -  0.1859875032847578
+train loss = 122, group 1 -  0.15268437154591083
+train loss = 122, group 2 -  0.1765208757736466
+train loss = 122, group 3 -  0.1496373763307929
+val loop
+WORST GROUP ACCURACY =  0.5866666666666667
+train loss = 123, group 0 -  0.21558631008321588
+train loss = 123, group 1 -  0.177404096621004
+train loss = 123, group 2 -  0.22335201542485844
+train loss = 123, group 3 -  0.18690182949331674
+val loop
+WORST GROUP ACCURACY =  0.5933333333333334
+train loss = 124, group 0 -  0.18481930087913168
+train loss = 124, group 1 -  0.14759112366644497
+train loss = 124, group 2 -  0.17319682254032656
+train loss = 124, group 3 -  0.11237145252102478
+val loop
+WORST GROUP ACCURACY =  0.56
+train loss = 125, group 0 -  0.1812668330290101
+train loss = 125, group 1 -  0.14391531834209506
+train loss = 125, group 2 -  0.16463053930889476
+train loss = 125, group 3 -  0.1630773909855634
+val loop
+WORST GROUP ACCURACY =  0.52
+train loss = 126, group 0 -  0.1762272376905788
+train loss = 126, group 1 -  0.12258440787819298
+train loss = 126, group 2 -  0.16679313237016852
+train loss = 126, group 3 -  0.10386296950111334
+val loop
+WORST GROUP ACCURACY =  0.48
+train loss = 127, group 0 -  0.1764921024441719
+train loss = 127, group 1 -  0.1348435477988625
+train loss = 127, group 2 -  0.16355945657600057
+train loss = 127, group 3 -  0.12972372548485345
+val loop
+WORST GROUP ACCURACY =  0.5666666666666667
+train loss = 128, group 0 -  0.15953797325491906
+train loss = 128, group 1 -  0.12031735555607487
+train loss = 128, group 2 -  0.17403850257396697
+train loss = 128, group 3 -  0.13628892053595998
+val loop
+WORST GROUP ACCURACY =  0.5133333333333333
+train loss = 129, group 0 -  0.1734756662087007
+train loss = 129, group 1 -  0.11664499996060675
+train loss = 129, group 2 -  0.1582886435768821
+train loss = 129, group 3 -  0.14113238527947528
+val loop
+WORST GROUP ACCURACY =  0.5933333333333334
+train loss = 130, group 0 -  0.1661852461370555
+train loss = 130, group 1 -  0.1525865942578424
+train loss = 130, group 2 -  0.15952576561407608
+train loss = 130, group 3 -  0.11666382071138783
+val loop
+WORST GROUP ACCURACY =  0.7
+train loss = 131, group 0 -  0.17016149772839112
+train loss = 131, group 1 -  0.13878799764312466
+train loss = 131, group 2 -  0.16462769210338593
+train loss = 131, group 3 -  0.12218035802414472
+val loop
+WORST GROUP ACCURACY =  0.5066666666666667
+train loss = 132, group 0 -  0.18495346212928945
+train loss = 132, group 1 -  0.14790026088118213
+train loss = 132, group 2 -  0.16705643995241684
+train loss = 132, group 3 -  0.14981592724269086
+val loop
+WORST GROUP ACCURACY =  0.56
+train loss = 133, group 0 -  0.16517128632827238
+train loss = 133, group 1 -  0.12933012064631014
+train loss = 133, group 2 -  0.15232851952314377
+train loss = 133, group 3 -  0.10807649884478782
+val loop
+WORST GROUP ACCURACY =  0.5266666666666666
+train loss = 134, group 0 -  0.15564924464984373
+train loss = 134, group 1 -  0.11498069056225094
+train loss = 134, group 2 -  0.16075970422137867
+train loss = 134, group 3 -  0.11746761985123158
+val loop
+WORST GROUP ACCURACY =  0.62
+train loss = 135, group 0 -  0.1947047687389634
+train loss = 135, group 1 -  0.1529357012615285
+train loss = 135, group 2 -  0.17665100720795718
+train loss = 135, group 3 -  0.16617282888936727
+val loop
+WORST GROUP ACCURACY =  0.42
+train loss = 136, group 0 -  0.2070567261088978
+train loss = 136, group 1 -  0.15960357387296178
+train loss = 136, group 2 -  0.21145156554200434
+train loss = 136, group 3 -  0.16102117227221077
+val loop
+WORST GROUP ACCURACY =  0.5333333333333333
+train loss = 137, group 0 -  0.18153655678033828
+train loss = 137, group 1 -  0.13457896250554108
+train loss = 137, group 2 -  0.19541484700007872
+train loss = 137, group 3 -  0.1652144448662346
+val loop
+WORST GROUP ACCURACY =  0.6066666666666667
+train loss = 138, group 0 -  0.16627794138409874
+train loss = 138, group 1 -  0.13349446923556654
+train loss = 138, group 2 -  0.17154900390993466
+train loss = 138, group 3 -  0.12157153937415305
+val loop
+WORST GROUP ACCURACY =  0.42
+train loss = 139, group 0 -  0.15716503262519838
+train loss = 139, group 1 -  0.10839927735823122
+train loss = 139, group 2 -  0.16912791512229225
+train loss = 139, group 3 -  0.12469237677922303
+val loop
+WORST GROUP ACCURACY =  0.56
+train loss = 140, group 0 -  0.16513000090013852
+train loss = 140, group 1 -  0.1269879580729387
+train loss = 140, group 2 -  0.15911891893907026
+train loss = 140, group 3 -  0.12728624663908372
+val loop
+WORST GROUP ACCURACY =  0.4666666666666667
+train loss = 141, group 0 -  0.1766945943236351
+train loss = 141, group 1 -  0.12580342502756553
+train loss = 141, group 2 -  0.17489355396140704
+train loss = 141, group 3 -  0.14022697775032034
+val loop
+WORST GROUP ACCURACY =  0.56
+train loss = 142, group 0 -  0.17242524082010444
+train loss = 142, group 1 -  0.15539735994217072
+train loss = 142, group 2 -  0.16871752468022433
+train loss = 142, group 3 -  0.12472400387579745
+val loop
+WORST GROUP ACCURACY =  0.6266666666666667

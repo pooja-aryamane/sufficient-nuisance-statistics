@@ -1,0 +1,11 @@
+wandb: Currently logged in as: pooja-aryamane (suff-nuisance-stats). Use `wandb login --relogin` to force relogin
+wandb: wandb version 0.17.3 is available!  To upgrade, please run:
+wandb:  $ pip install wandb --upgrade
+wandb: Tracking run with wandb version 0.16.0
+wandb: Run data is saved locally in /scratch/paa9751/mlhc-project/wandb/run-20240701_153930-fb0oz3ca
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run epochs_30+batch_size_4+lr_1e-05+wd_0.001
+wandb: ⭐️ View project at https://wandb.ai/suff-nuisance-stats/mnli-stage1
+wandb: 🚀 View run at https://wandb.ai/suff-nuisance-stats/mnli-stage1/runs/fb0oz3ca
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.

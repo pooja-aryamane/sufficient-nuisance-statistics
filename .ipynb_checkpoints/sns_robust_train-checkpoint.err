@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/scratch/paa9751/mlhc-project/train_gdro.py", line 308, in <module>
+    wandb.init(
+    ^^^^^
+NameError: name 'wandb' is not defined

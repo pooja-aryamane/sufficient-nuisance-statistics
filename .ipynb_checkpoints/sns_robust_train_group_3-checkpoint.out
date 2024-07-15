@@ -1,0 +1,293 @@
+training started
+train loss = 0, group 0 -  0.6732644910162146
+train loss = 0, group 1 -  0.7511571277271617
+train loss = 0, group 2 -  0.6947667506608096
+val loop
+train loss = 1, group 0 -  0.6338915656913411
+train loss = 1, group 1 -  0.7303827139464292
+train loss = 1, group 2 -  0.6580521800301292
+val loop
+train loss = 2, group 0 -  0.6328108947385441
+train loss = 2, group 1 -  0.7322553439573808
+train loss = 2, group 2 -  0.6525997633283789
+val loop
+train loss = 3, group 0 -  0.5914727611975237
+train loss = 3, group 1 -  0.7314981615001505
+train loss = 3, group 2 -  0.6444890141487122
+val loop
+train loss = 4, group 0 -  0.5874766498804093
+train loss = 4, group 1 -  0.7316895869645206
+train loss = 4, group 2 -  0.6384529769420624
+val loop
+train loss = 5, group 0 -  0.5731382304971868
+train loss = 5, group 1 -  0.7302073960954493
+train loss = 5, group 2 -  0.6363389654593035
+val loop
+train loss = 6, group 0 -  0.5712417063387958
+train loss = 6, group 1 -  0.7316324751485478
+train loss = 6, group 2 -  0.6238681625236164
+val loop
+train loss = 7, group 0 -  0.5628992779688402
+train loss = 7, group 1 -  0.7270440917123447
+train loss = 7, group 2 -  0.6232570014216683
+val loop
+train loss = 8, group 0 -  0.5627093607729131
+train loss = 8, group 1 -  0.7279721503907984
+train loss = 8, group 2 -  0.6188676974990152
+val loop
+train loss = 9, group 0 -  0.5655801583420147
+train loss = 9, group 1 -  0.7177820335734975
+train loss = 9, group 2 -  0.6208697180856358
+val loop
+train loss = 10, group 0 -  0.5551440122452649
+train loss = 10, group 1 -  0.7363969808275049
+train loss = 10, group 2 -  0.6233247854492882
+val loop
+train loss = 11, group 0 -  0.5667522503571076
+train loss = 11, group 1 -  0.7142940840937875
+train loss = 11, group 2 -  0.6255980274894021
+val loop
+train loss = 12, group 0 -  0.5592255221171812
+train loss = 12, group 1 -  0.7299768339503895
+train loss = 12, group 2 -  0.6262538568540053
+val loop
+train loss = 13, group 0 -  0.533989508043636
+train loss = 13, group 1 -  0.7147250075231899
+train loss = 13, group 2 -  0.6137196828018535
+val loop
+train loss = 14, group 0 -  0.534507670727643
+train loss = 14, group 1 -  0.7172323660417037
+train loss = 14, group 2 -  0.6094734197313135
+val loop
+train loss = 15, group 0 -  0.5340093528682536
+train loss = 15, group 1 -  0.7201511578126387
+train loss = 15, group 2 -  0.6066221632740715
+val loop
+train loss = 16, group 0 -  0.5110927711833607
+train loss = 16, group 1 -  0.7216588237068869
+train loss = 16, group 2 -  0.5974699047478762
+val loop
+train loss = 17, group 0 -  0.5159329371018844
+train loss = 17, group 1 -  0.7161379957740958
+train loss = 17, group 2 -  0.5984717574986544
+val loop
+train loss = 18, group 0 -  0.5411406506191601
+train loss = 18, group 1 -  0.7195709206841209
+train loss = 18, group 2 -  0.6116011958230626
+val loop
+train loss = 19, group 0 -  0.5171224279837174
+train loss = 19, group 1 -  0.7168242481621829
+train loss = 19, group 2 -  0.5954320918429982
+val loop
+train loss = 20, group 0 -  0.5195060559294441
+train loss = 20, group 1 -  0.706537987427278
+train loss = 20, group 2 -  0.6102953331037001
+val loop
+train loss = 21, group 0 -  0.5120044914158908
+train loss = 21, group 1 -  0.719685772061348
+train loss = 21, group 2 -  0.5931840392676266
+val loop
+train loss = 22, group 0 -  0.5138478734276511
+train loss = 22, group 1 -  0.7185465872287751
+train loss = 22, group 2 -  0.5937679057771509
+val loop
+train loss = 23, group 0 -  0.5079706560481678
+train loss = 23, group 1 -  0.7125627433711832
+train loss = 23, group 2 -  0.5947960187088359
+val loop
+train loss = 24, group 0 -  0.5044154476035725
+train loss = 24, group 1 -  0.7073006732897325
+train loss = 24, group 2 -  0.5912027060985565
+val loop
+train loss = 25, group 0 -  0.4913871483369307
+train loss = 25, group 1 -  0.7039330032738772
+train loss = 25, group 2 -  0.5884940139271996
+val loop
+train loss = 26, group 0 -  0.49972322854128753
+train loss = 26, group 1 -  0.7122751544822347
+train loss = 26, group 2 -  0.5852757643569599
+val loop
+train loss = 27, group 0 -  0.5156400637193159
+train loss = 27, group 1 -  0.7118772650306875
+train loss = 27, group 2 -  0.6006609049710361
+val loop
+train loss = 28, group 0 -  0.4914368618618358
+train loss = 28, group 1 -  0.7183104739947752
+train loss = 28, group 2 -  0.5849403600801121
+val loop
+train loss = 29, group 0 -  0.49350588077848606
+train loss = 29, group 1 -  0.7113092303276062
+train loss = 29, group 2 -  0.582907186313109
+val loop
+train loss = 30, group 0 -  0.5001254848458551
+train loss = 30, group 1 -  0.6951302845369686
+train loss = 30, group 2 -  0.5813727167519656
+val loop
+train loss = 31, group 0 -  0.4759325043721633
+train loss = 31, group 1 -  0.7011889533563094
+train loss = 31, group 2 -  0.5789056647907603
+val loop
+train loss = 32, group 0 -  0.47943369827487253
+train loss = 32, group 1 -  0.6855501640926708
+train loss = 32, group 2 -  0.5726272412321785
+val loop
+train loss = 33, group 0 -  0.476174303076484
+train loss = 33, group 1 -  0.6867225075309927
+train loss = 33, group 2 -  0.5695828153328462
+val loop
+train loss = 34, group 0 -  0.4713057485493747
+train loss = 34, group 1 -  0.6741816845807163
+train loss = 34, group 2 -  0.5703676023266532
+val loop
+train loss = 35, group 0 -  0.4855310179970481
+train loss = 35, group 1 -  0.6833560967987234
+train loss = 35, group 2 -  0.575320962342349
+val loop
+train loss = 36, group 0 -  0.4670904620127244
+train loss = 36, group 1 -  0.6918161232363094
+train loss = 36, group 2 -  0.569396252523769
+val loop
+train loss = 37, group 0 -  0.46140795891935177
+train loss = 37, group 1 -  0.6935179696841673
+train loss = 37, group 2 -  0.5629114695570686
+val loop
+train loss = 38, group 0 -  0.4752553582191467
+train loss = 38, group 1 -  0.6934453281489286
+train loss = 38, group 2 -  0.5731313242153688
+val loop
+train loss = 39, group 0 -  0.45643893724138085
+train loss = 39, group 1 -  0.6832997327501124
+train loss = 39, group 2 -  0.5632573848420923
+val loop
+train loss = 40, group 0 -  0.47490516765551133
+train loss = 40, group 1 -  0.6926772442730991
+train loss = 40, group 2 -  0.5620150899345224
+val loop
+train loss = 41, group 0 -  0.4667090960524299
+train loss = 41, group 1 -  0.6740419742735949
+train loss = 41, group 2 -  0.5656316816806793
+val loop
+train loss = 42, group 0 -  0.46262225698341025
+train loss = 42, group 1 -  0.6788997885855761
+train loss = 42, group 2 -  0.5590484741059216
+val loop
+train loss = 43, group 0 -  0.4571636793288318
+train loss = 43, group 1 -  0.6882878918539393
+train loss = 43, group 2 -  0.5603335548530926
+val loop
+train loss = 44, group 0 -  0.4680185087702491
+train loss = 44, group 1 -  0.6962132478302175
+train loss = 44, group 2 -  0.5661182617599314
+val loop
+train loss = 45, group 0 -  0.460342397202145
+train loss = 45, group 1 -  0.675846612724391
+train loss = 45, group 2 -  0.5504111658443104
+val loop
+train loss = 46, group 0 -  0.4520454452796416
+train loss = 46, group 1 -  0.66359643638134
+train loss = 46, group 2 -  0.5506140180609443
+val loop
+train loss = 47, group 0 -  0.44934228523211045
+train loss = 47, group 1 -  0.6706855446100235
+train loss = 47, group 2 -  0.5559511588378386
+val loop
+train loss = 48, group 0 -  0.44374134161255574
+train loss = 48, group 1 -  0.6597269277681004
+train loss = 48, group 2 -  0.553605823896148
+val loop
+train loss = 49, group 0 -  0.4445258750156923
+train loss = 49, group 1 -  0.6511990110982548
+train loss = 49, group 2 -  0.5478543506427245
+val loop
+train loss = 50, group 0 -  0.4401713961904699
+train loss = 50, group 1 -  0.6618525025519457
+train loss = 50, group 2 -  0.5388103907758539
+val loop
+train loss = 51, group 0 -  0.44467020576650446
+train loss = 51, group 1 -  0.6632427743890069
+train loss = 51, group 2 -  0.5413061225956136
+val loop
+train loss = 52, group 0 -  0.4278989000753923
+train loss = 52, group 1 -  0.6391411103985526
+train loss = 52, group 2 -  0.5311630395325747
+val loop
+train loss = 53, group 0 -  0.43150276839733126
+train loss = 53, group 1 -  0.6512032262303612
+train loss = 53, group 2 -  0.5377544541250575
+val loop
+train loss = 54, group 0 -  0.4421057801355015
+train loss = 54, group 1 -  0.6598136468367143
+train loss = 54, group 2 -  0.543889270587401
+val loop
+train loss = 55, group 0 -  0.41514690978960556
+train loss = 55, group 1 -  0.6539690109816465
+train loss = 55, group 2 -  0.5246345438740471
+val loop
+train loss = 56, group 0 -  0.43779180618849667
+train loss = 56, group 1 -  0.6560167158191854
+train loss = 56, group 2 -  0.5469131675633517
+val loop
+train loss = 57, group 0 -  0.42821029776876623
+train loss = 57, group 1 -  0.661206394163045
+train loss = 57, group 2 -  0.5344323897903616
+val loop
+train loss = 58, group 0 -  0.4240479610183022
+train loss = 58, group 1 -  0.6356039448217912
+train loss = 58, group 2 -  0.5363484081896869
+val loop
+train loss = 59, group 0 -  0.424273438074372
+train loss = 59, group 1 -  0.6390994865785945
+train loss = 59, group 2 -  0.5335772284052589
+val loop
+train loss = 60, group 0 -  0.42764358032833444
+train loss = 60, group 1 -  0.6398465717380697
+train loss = 60, group 2 -  0.5287515071305362
+val loop
+train loss = 61, group 0 -  0.41921818310564213
+train loss = 61, group 1 -  0.6451057304035533
+train loss = 61, group 2 -  0.534214814955538
+val loop
+train loss = 62, group 0 -  0.4224047742106698
+train loss = 62, group 1 -  0.6436826063828035
+train loss = 62, group 2 -  0.5221862242980437
+val loop
+train loss = 63, group 0 -  0.4256544562903318
+train loss = 63, group 1 -  0.6368732163851911
+train loss = 63, group 2 -  0.5310452184893868
+val loop
+train loss = 64, group 0 -  0.4208896292881532
+train loss = 64, group 1 -  0.6389390759847381
+train loss = 64, group 2 -  0.5196726419708946
+val loop
+train loss = 65, group 0 -  0.4106554781848734
+train loss = 65, group 1 -  0.6336075162345712
+train loss = 65, group 2 -  0.5221281983635643
+val loop
+train loss = 66, group 0 -  0.41192843914031985
+train loss = 66, group 1 -  0.6282454531301152
+train loss = 66, group 2 -  0.5206678764386611
+val loop
+train loss = 67, group 0 -  0.4193104998631911
+train loss = 67, group 1 -  0.6452589052644643
+train loss = 67, group 2 -  0.5314644087444652
+val loop
+train loss = 68, group 0 -  0.4108006929809397
+train loss = 68, group 1 -  0.6348128462379629
+train loss = 68, group 2 -  0.5208688494834033
+val loop
+train loss = 69, group 0 -  0.39610030461441387
+train loss = 69, group 1 -  0.6050310878591104
+train loss = 69, group 2 -  0.5157405352050608
+val loop
+train loss = 70, group 0 -  0.39511132050644265
+train loss = 70, group 1 -  0.6022232898256995
+train loss = 70, group 2 -  0.5175738844004545
+val loop
+train loss = 71, group 0 -  0.39559947523203765
+train loss = 71, group 1 -  0.5931121968410232
+train loss = 71, group 2 -  0.49743454618887467
+val loop
+train loss = 72, group 0 -  0.40185419375246223
+train loss = 72, group 1 -  0.6243750285018574
+train loss = 72, group 2 -  0.512654986706647
+val loop
